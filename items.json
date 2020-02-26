@@ -1,0 +1,9 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Journalled Membership",
+      "journalCost": 7.99
+    }
+  ]
+}
